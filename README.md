@@ -1,6 +1,6 @@
 # Chatbot con Gpt-3.5
 
-<img src="https://img.shields.io/badge/Current%20Version-V0.0.1-green"alt="Descripción de la imagen">
+<img src="https://img.shields.io/badge/Current%20Version-V0.0.1-green" alt="Descripción de la imagen">
 
 ## Español
 ### Que necesita para funcionar?
